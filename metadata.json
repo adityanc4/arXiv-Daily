@@ -1,0 +1,5 @@
+{
+  "name": "arXiv daily",
+  "description": "An application that simulates an Android UI to display daily academic papers from arXiv, presenting each as a notification with a direct link to the PDF.",
+  "requestFramePermissions": []
+}
