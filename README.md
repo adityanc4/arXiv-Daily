@@ -1,5 +1,5 @@
 <div align="center">
-<img width="360" height="687" alt="GHBanner" src="https://github.com/adityanc4/arXiv-Daily/blob/d894e734ed03b4c2126478d62651778c6cdfb637/arXivDaily.jpg" />
+<img width="1080" height="720" alt="GHBanner" src="https://github.com/adityanc4/arXiv-Daily/blob/fc9e8c48b9e98ff55e51e31b11597584abee13fb/arXivDaily.png" />
 </div>
 
 # ADI Astro Daily
