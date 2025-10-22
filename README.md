@@ -2,9 +2,9 @@
 <img width="1080" height="720" alt="GHBanner" src="https://github.com/adityanc4/arXiv-Daily/blob/fc9e8c48b9e98ff55e51e31b11597584abee13fb/arXivDaily.png" />
 </div>
 
-# ADI Astro Daily
+# Astro Daily
 
-ADI Astro Daily is a web application that displays the latest research papers from arXiv’s Astronomy and Astrophysics categories.  
+Astro Daily is a web application that displays the latest research papers from arXiv’s Astronomy and Astrophysics categories.  
 It provides a clean, minimal interface for browsing daily papers, filtering by date, and directly accessing PDFs.
 
 ## Overview
@@ -26,4 +26,4 @@ During development, **Google AI Studio** was used to assist in generating and op
 - **Frontend:** HTML, CSS, TypeScript  
 - **API Source:** [arXiv API](https://arxiv.org/help/api)  
 - **AI Integration:** [Google AI Studio](https://aistudio.google.com)  
-- **Hosting:** Firebase / Vercel / GitHub Pages (depending on deployment)
+- **Hosting:** Firebase / Vercel / GitHub Pages
