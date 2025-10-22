@@ -1,20 +1,29 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="360" height="687" alt="GHBanner" src="https://github.com/adityanc4/arXiv-Daily/blob/d894e734ed03b4c2126478d62651778c6cdfb637/arXivDaily.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
+# ADI Astro Daily
 
-This contains everything you need to run your app locally.
+ADI Astro Daily is a web application that displays the latest research papers from arXiv’s Astronomy and Astrophysics categories.  
+It provides a clean, minimal interface for browsing daily papers, filtering by date, and directly accessing PDFs.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1NAG4n9v5OD4VIqR30Rlk9WTJePhV1-dF
+## Overview
 
-## Run Locally
+The app connects to the arXiv API to fetch new astronomy papers published each day.  
+Users can filter by date, view essential paper details (title, authors, categories), and open PDFs directly from the interface.
+During development, **Google AI Studio** was used to assist in generating and optimizing TypeScript code for cleaner structure and improved maintainability.
 
-**Prerequisites:**  Node.js
+## Features
 
+- Daily feed of astronomy and astrophysics papers from arXiv  
+- Filter results by publication date  
+- View paper details including authors and categories  
+- Direct “View PDF” link for full-text access  
+- Developed with AI-assisted code optimization via Google AI Studio  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+
+- **Frontend:** HTML, CSS, TypeScript  
+- **API Source:** [arXiv API](https://arxiv.org/help/api)  
+- **AI Integration:** [Google AI Studio](https://aistudio.google.com)  
+- **Hosting:** Firebase / Vercel / GitHub Pages (depending on deployment)
